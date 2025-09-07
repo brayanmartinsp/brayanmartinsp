@@ -1,6 +1,10 @@
 <h1 align="center">👋 Olá, eu sou o Brayan!</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
   Estudante de <b>Tecnologia</b> apaixonado por programação, redes e sistemas embarcados.<br>
   Sempre aprendendo e buscando evoluir como desenvolvedor 🚀
 </p>
@@ -84,14 +88,11 @@
 ---
 
 ## 📫 Como me encontrar
-- 💼 LinkedIn: [brayan-linkedin](https://www.linkedin.com/in/seu-linkedin)
-- 📧 Gmail: **seuemail@gmail.com**
-- 🌍 Portfólio: [seu-portfolio.com](#)
+- 💼 LinkedIn:([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/brayanmartinsp/))
+- 📧 Gmail: **devsistemas9@gmail.com**
 
----
 
-## 🎬 Momento Programação
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
-</p>
+
+
+
